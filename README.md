@@ -1,6 +1,8 @@
-	 <!DOCTYPE html> 
-	<html lang="ar" dir="rtl">
-	<head>
+    <!DOCTYPE html>
+
+    <html lang="ar" dir="rtl">
+
+    <head>
 
     <meta charset="UTF-8">
 
@@ -115,8 +117,10 @@
         }
 
     </style>
-		<body>
-	<head>
+    
+    </head>
+    
+    <body>
 
     <div class="container">
 
@@ -219,5 +223,7 @@
         });
 
     </script>
-		</body>
-	</html>
+    
+    </body>
+    
+    </html>       
